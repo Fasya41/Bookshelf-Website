@@ -4,7 +4,11 @@ Kamu bisa menambah, mencari, menandai selesai dibaca, dan menghapus buku. Semua 
 ✨ Fitur
 
 ➕ Tambah buku dengan judul, penulis, tahun, dan status selesai dibaca
+
 🔄 Pindahkan buku antara Telah Dibaca dan Belum Dibaca
+
 ❌ Hapus buku dari rak
+
 🔍 Cari buku berdasarkan judul
+
 💾 Data otomatis tersimpan di Local Storage
